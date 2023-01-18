@@ -1,0 +1,440 @@
+.body {
+  text-align: center;
+  position: relative;
+width: 100vm;
+height: 100vh;
+
+background: #FFFFFF;
+}
+main {
+  background-color:rgb(233, 231, 209);
+
+}
+
+
+
+/* 
+ @media (prefers-reduced-motion: no-preference) {
+
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  } 
+} */
+
+
+ .App-header{
+
+
+margin-left: 8%;
+margin-right: 8%;
+
+} 
+
+
+
+/* @keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+.App-logo img{
+  margin-top:3%
+}
+.nav-menu {
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+color: #6B7280;
+padding-left: 70%;
+
+
+}
+
+
+.nav-menu a {
+  text-decoration: none;
+  padding: 12%;
+}
+.nav menu button{
+box-sizing: border-box;
+padding: 1% 3%;
+background: #FFFFFF;
+border: 1px solid #3730A3;
+border-radius: 6px;
+padding: 10%;
+}
+
+
+  .App-hero{
+
+width: 90%;
+height: 85%;
+margin-top: 5%;
+margin-left: 8%;
+display: flex;
+flex-direction: row;
+
+}  
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+  align-content: space-around;
+margin-top: 15%;
+margin-bottom: 3%;
+}
+
+
+.ilkbutton {
+  padding: 12px 20px 12px 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  
+  background: #3730A3;
+  border-radius: 6px;
+
+ 
+}
+
+.ilkbutton a{
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+color: #FFFFFF;
+text-decoration: none;
+
+}
+
+.ikincibutton{
+  box-sizing: border-box;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 20px 12px 12px;
+gap: 10px;
+
+background: #FFFFFF;
+border: 1px solid #3730A3;
+border-radius: 6px;
+
+
+}
+.ikincibutton a{
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+color: #3730A3;
+text-decoration: none;
+}
+
+.ucuncubutton {
+box-sizing: border-box;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 20px 12px 12px;
+gap: 10px;
+
+background: #FFFFFF;
+border: 1px solid #3730A3;
+border-radius: 6px;
+
+}
+.ucuncubutton a {
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+color: #3730A3;
+
+text-decoration: none;
+}
+ .fotom {
+
+border-radius: 6%;
+padding-left: 8%;
+margin-top: 5%;
+margin-right: 10%;
+
+} 
+
+.hero-left{
+padding-bottom: 2%;
+
+} 
+
+
+.kalinyazi {
+
+
+  color: #1F2937;
+} */
+
+.isim-line{
+ padding: 30%;
+display: flex;
+flex-direction: row;
+}
+ .isim-line hr{
+  background: #4338CA;
+
+ width: 100%;
+ } 
+
+.isim-line h3 {
+font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 28px;
+  
+  color: #4338CA;
+  
+}
+.text{
+width: 100%;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+color: #6B7280;
+}
+
+.App-skills{
+ width: 80%;
+
+ margin-left: 8%;
+ margin-right: 8%;
+
+
+}
+
+.App-skills h1 {
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 48px;
+color: #1F2937;
+}
+.skill-list h1 {
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 48px;
+color: #1F2937;
+
+}
+
+.skill-list{
+  margin-top: 3%;
+  display: flex;
+flex-direction: row;
+justify-content: space-between;
+text-align: center;
+margin-bottom: 3%;
+}
+
+
+.skill-list h1{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 28px;
+color: #4338CA;
+}
+.ikili1{
+  display: flex;
+  flex-direction:column;
+  width: 160%;
+  margin-right: 6%;
+  
+}
+
+.ikili2{
+  display: flex;
+  flex-direction:column;
+
+}
+
+.ikili2 h3{
+margin-top: 18%;
+  margin-right: 25%;
+}
+
+.ikililer{
+  display: flex;
+  flex-direction:row;
+
+}
+
+.sorular-cevaplar{
+  display: flex;
+  flex-direction: row;
+}
+.sorular{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 110%;
+margin-right: 3%;
+color: #000000;
+}
+
+.App-profile hr{
+
+margin-top: 3%;
+  }
+
+.App-profile h1{
+
+font-family: 'Inter';
+font-style: normal;
+margin-top: 3%;
+font-size: 48px;
+line-height: 48px;
+color: #1F2937;
+
+}
+
+.App-profile h3{
+
+font-family: 'Inter';
+margin-top: 1%;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 28px;
+
+  color: #4338CA;
+
+  
+}
+
+
+ .App-profile{
+
+margin-left: 8%;
+margin-right: 8%;
+
+} 
+
+
+ .App-project{
+  margin-left: 8%;
+ 
+} 
+
+.App-project hr{
+    margin-top: 3%;
+      }
+
+
+.App-project h1{
+margin-top: 3%;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 48px;
+  color: #000000;
+  
+}
+.proje-list{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+width: 84vw;
+
+
+
+}
+
+.proje-list h1{
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 28px;
+color: #4338CA;
+
+}
+.proje1{
+  display: flex;
+flex-direction: column;
+text-align: center;
+padding-right: 2%;
+
+}
+
+.proje2{
+  display: flex;
+flex-direction: column;
+text-align: center;
+padding-right: 2%;
+}
+.proje2 img{
+  margin: auto auto;
+}
+
+
+.proje3{
+  display: flex;
+flex-direction: column;
+text-align: center;
+padding-right: 2%;
+}
+
+
+.miniklink a{
+  text-decoration: none;
+padding: 0 15%;
+}
+.App-footer{
+  margin-left: 8%;
+  
+
+}
+
+.App-footer h1 {
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 42px;
+line-height: 125%;
+color: #1F2937;
+margin-bottom: 0;
+}
+
+.App-footer a {
+  margin-bottom: 150px;
+}
+.footer-nav{
+  margin-left: 2%;
+
+
+}
