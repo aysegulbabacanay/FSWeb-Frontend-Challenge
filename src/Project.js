@@ -3,7 +3,7 @@ import proje1 from"./Rectangle 41.png";
 import pizza from "./pizza.png";
 import akivite from "./aktivite.png";
 import todolist from "./todolist.png";
-import {Link} from "react-router-dom"
+// import {Link} from "react-router-dom"
 
 function Project(prop) {
 
