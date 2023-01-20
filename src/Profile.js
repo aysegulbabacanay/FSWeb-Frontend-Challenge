@@ -50,7 +50,7 @@ function Profile() {
                     <h3>About me</h3>
                     <p>Bir inşaat mühendisi olarak mezuniyetten sonra sektörde çalışmaya devam ediyordum. Aslında yapmak istediğim meslek bu değildi.
                     Yazılıma hep bir ilgim vardı ve daha sonra Workintech ile tanıştım. 6 aylık yoğun bir programdan geçtim ve yazılımcı olma yolunda emin adımlarla ilerliyorum. 
-                     İyi bir yazılımcı olmak için hep kendimi geliştirme odaklıyım. Artık ben de sevdiğim mesleği yapmak istiyorum :)</p>
+                     İyi bir yazılımcı olmak için hep kendimi geliştirme odaklıyım. Artık ben de sevdiğim mesleği yapmak istiyorum.</p>
                 </div>
             </div>
 

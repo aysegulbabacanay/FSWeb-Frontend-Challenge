@@ -17,10 +17,10 @@ function Hero() {
                  
                     <hr></hr>
                     
-
                     </div>
             <div className="kalinyazi">
-                        <h1>Her zaman gelişmeye hazır bir developer </h1>
+                        <h1>Yeni şeyler üretmeyi seven , 
+                            gelişmeye açık bir yazılımcı </h1>
 
                     </div>
                     <div className="text">
@@ -42,13 +42,11 @@ function Hero() {
                     <a href="https://www.linkedin.com/in/ay%C5%9Feg%C3%BCl-babacan-ay-7597811ab/" >Linkedin</a>
                 </section>
 
-
-
             </div>
                 </div>
            
             <div className="fotom">
-                <img src ={foto} width="450" height="450"/>
+                <img src ={foto} width="350" height="400"/>
             </div>
  
 

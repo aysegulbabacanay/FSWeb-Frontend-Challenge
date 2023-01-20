@@ -17,7 +17,7 @@ function Project(prop) {
             <div className="proje-list">
                 <div className="proje1">
                     <h1>Todo List Projesi</h1>
-                    <img src={todolist} width="485" height="250" />
+                    <img src={todolist} width="480" height="245" />
                     <p>Bu proje hepimizin bildiği bir todolist uygulamasıdır.İçinde bir form elemanı bulundurur ve yeni bir todo eklenebilir. Gerçekleşen todo lar için ise "OK" yazdırabiliriz.Aynı zamanda todo listesinde bu gerçekleşenleri de gizleyebilme imkanı sunuyor.</p>
                     <div className="buttonlar" >
                         <button>Axios</button>
@@ -31,7 +31,7 @@ function Project(prop) {
                 </div>
                 <div className="proje2">
                     <h1>Pizza Projesi</h1>
-                    <img src={pizza} width="450" height="250" />
+                    <img src={pizza} width="445" height="245" />
                     <p>Bu proje  kendi pizzanı yapabileceğin bir form sayfasına yönlendiriyor. Daha sonra pizza ismi,boyutu,çıkarmak istediğiniz malzemeleri seçip not girdikten sonra "siparişe ekle" butonu ile size sipariş özeti kısmını gösteriyor.</p>
                     <div className="buttonlar" >
                         <button>React</button>
@@ -46,7 +46,7 @@ function Project(prop) {
 
                 <div className="proje3">
                     <h1>Bored API Projesi</h1>
-                    <img src={akivite} width="485" height="250" />
+                    <img src={akivite} width="480" height="245" />
                     <p>Bu proje sıkılan insanlara yeni aktiviteler sunuyor. Aktivite getir kısmında aktiviteleri sıralarken,kişi sayısı girerek de kaç kişi ile bu aktiviteyi gerçekleştireceğinize dair seçenek sunuluyor. Bu aktiviteleri storeda yazdırıp istediğimizde de silme özelliğine sahip bir projedir. </p>
                     <div className="buttonlar" >
                         <button>Axios</button>
